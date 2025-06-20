@@ -22,7 +22,7 @@ First GO to Specific Directory Where the python file is Saved
 
 ![image](https://github.com/user-attachments/assets/29a1e5d0-13f8-41f5-8678-95fb5f57bfca)
 
-Instead of www.google.com you can use any URL
+Instead of www.google.com you can use any URL!
 
 Result:<br>
 ![image](https://github.com/user-attachments/assets/8410a287-107a-4df8-9279-3e8d9d0fb494)
